@@ -1,5 +1,5 @@
 
-# Telco Customer Churn – Machine Learning con Selección de Rasgos vía SHAP
+# Telco Customer Churn
 
 Predicción de **churn (abandono de clientes)** en una empresa de telecomunicaciones, utilizando un pipeline reproducible con: limpieza, imputación, encoding, selección de rasgos con Info Gain y ShAP, y evaluación de modelos de clasificación (KNN, DecisionTree, LogisticRegression, RandomForest, GradientBoosting).
 
